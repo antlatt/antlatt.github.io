@@ -9,6 +9,6 @@ date: 2022-10-10 22:22:00
 ### - MODIFIED ARCADE 1 UP WITH EMULATION PC
 ### - PLAY ANY CONSOLE OR PC GAME EVER!
 
-![img-description](https://www.antlatt.com/videos/arcade/20191124_153047.mp4)
+![img-description](https://www.antlatt.com/images/builds/arcade/arcadethumb.png)
 _Addypoo_
 
