@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Ultimate Arcade
 date: 2022-10-10 22:22:00 -500
 categories: [homelab,hardware]
